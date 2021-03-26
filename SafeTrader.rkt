@@ -65,7 +65,7 @@
        [(false? (available-stock ticker)) "NotAvailable"]
        [(false? #t) #f]
        [else "Don'tBuy"])]))
-;//Finds whether a stock should be bought based on metrics
+;//INCOMPLETE
 
 
 ;Stock-Recommendations: boolean -> alo-opinions
